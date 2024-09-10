@@ -78,5 +78,3 @@ gradlew test
 - Lombok
 - Validation API
 ---
-
-This `README.md` provides a project overview, functionality details, setup instructions, API endpoints, potential improvements, and information on testing and dependencies. 
